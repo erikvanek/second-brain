@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3de99e818c9b7908",
+            "id": "06fcf60a62e4512c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gingerbug.md",
+                "file": "Tepache.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gingerbug.md",
+                "file": "Tepache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gingerbug.md",
+                "file": "Tepache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gingerbug.md"
+                "file": "Tepache.md"
               }
             }
           }
@@ -146,9 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3de99e818c9b7908",
+  "active": "06fcf60a62e4512c",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Gingerbug.md"
+    "Kombucha.md",
+    "Gingerbug.md",
+    "Tepache.md",
+    "Untitled.canvas"
   ]
 }

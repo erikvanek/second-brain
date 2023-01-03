@@ -1,7 +1,9 @@
 ---
-tags: fermentation
+tags: fermentation, drinks
 ingredients: sugar, ginger
+time: 2023-01-03
 ---
-# Gingerbug
-- fermented drink starter
+- fermented drink starter ^d28efd
 	- can be used for various fermented beverages like ginger beer, fermented sodas, ...
+## Usage
+### ginger beer
